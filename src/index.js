@@ -43,7 +43,7 @@ type State = {|
   items: Array<Item>
 |};
 
-export const TOP_MIN = 0.7;
+export const TOP_MIN = 0.5;
 export const DEFAULT_COLORS: Array<string> =[
   '#e67e22',
   '#2ecc71',
