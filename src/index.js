@@ -58,7 +58,7 @@ export const DEFAULT_COLORS: Array<string> =[
   '#1abc9c'
 ];
 export const DEFAULT_EXPLOSION_SPEED = 1000;
-export const DEFAULT_FALL_SPEED = 5000;
+export const DEFAULT_FALL_SPEED = 3000;
 
 class Explosion extends React.PureComponent<Props, State> {
   props: Props;
