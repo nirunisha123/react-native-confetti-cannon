@@ -44,7 +44,7 @@ class Confetti extends React.PureComponent<Props> {
 const styles = StyleSheet.create({
   confetti: {
     position: 'absolute',
-    left: 0,
+    left: -30,
     bottom: -20
   },
   rounded: {
